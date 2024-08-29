@@ -3,6 +3,7 @@
 API inicial utilizado Clean Archtecture para se ter como base para futuras api`s que serão desenvolvidos
 
 Uso de migrations para criação do banco de dados
+
 Uso do padrão repositories para operações com o banco
 
 ** Como utilizar **
