@@ -1,0 +1,7 @@
+.vs
+bin
+obj
+log
+*.user
+node_modules
+TestResults
