@@ -7,6 +7,6 @@ Uso do padrão repositories para operações com o banco
 
 ** Como utilizar **
 
-1 - Pegar como base o arquivos appsettings.json
-2 - Alterar de acordo com as preferencias de banco (Suporte ao SQL Server e MySQL)
-3 - e colocar no SECRETS da aplicação
+1. Pegar como base o arquivos appsettings.json
+2. Alterar de acordo com as preferencias de banco (Suporte ao SQL Server e MySQL)
+3. Colocar no SECRETS da aplicação
